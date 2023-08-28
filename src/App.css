@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.Card-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  place-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
